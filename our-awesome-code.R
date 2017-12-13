@@ -1,9 +1,10 @@
 awesome_function_1 <- function(argument1) {
-print ("Amara")
+    print("Helen")
+
 }
 
 awesome_function_2 <- function(argument1) {
-    _______
+    print ("Amara")
 }
 
 awesome_function_3 <- function(argument1) {
